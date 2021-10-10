@@ -6,7 +6,7 @@ header, footer {
     color:lightgreen;
 }
 
-.site-title a {
+body.firstpage .site-title {
     color:lightsalmon;
 
 }
