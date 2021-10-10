@@ -16,6 +16,6 @@ site-title {
                
 }
 
-li:nth-child(odd) {
+:nth-child(odd) {
     color: rgb(3, 81, 129);
 }
