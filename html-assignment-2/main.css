@@ -1,4 +1,4 @@
-body {
+body .p {
     font-size:18px;
 }
 
@@ -6,7 +6,7 @@ header, footer {
     color:lightgreen;
 }
 
-.site-title {
+body .site-title {
     color:lightsalmon;
 
 }
