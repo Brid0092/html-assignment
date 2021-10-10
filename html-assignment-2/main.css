@@ -1,21 +1,21 @@
-body{
+body.firstpage {
     font-size:2px;
 }
 
-header, footer{
+header, footer {
     color:lightgreen
 }
 
-site-title{
+site-title {
     color:lightsalmon
 
 }
 
-#my-image{
+#my-image {
     box-shadow: 0px 0px 2pt 1px black
                
 }
 
-li:nth-child(odd){
+li:nth-child(odd) {
     background-color: rgb(3, 81, 129);
 }
