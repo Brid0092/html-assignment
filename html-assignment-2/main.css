@@ -24,7 +24,7 @@ li:nth-child(odd) {
     color:indianred;
 }
 
-.links {
+.notes {
    text-decoration: none;
    background-color: rgb(137, 94, 177);
    border-width: 5px;
