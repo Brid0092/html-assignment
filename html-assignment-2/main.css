@@ -20,7 +20,7 @@ li:nth-child(odd) {
     background-color: rgb(139, 203, 243);
 } 
 
-.links:hover {
+#links:hover {
     color:indianred;
 }
 
