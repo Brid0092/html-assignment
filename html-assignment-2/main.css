@@ -28,5 +28,5 @@ li:nth-child(odd) {
    text-decoration: none;
    background-color: rgb(137, 94, 177);
    border-width: 5px;
-   border-style: double;"
+   border-style: double;
 }
