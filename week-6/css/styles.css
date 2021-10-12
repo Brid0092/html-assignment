@@ -1,0 +1,18 @@
+body {
+    font-family:'Franklin Gothic Medium','Arial Narrow',sans-serif;
+    font-size:16px; 
+    line-height: 1.5;
+}
+
+.bolded {
+    font-weight: 800;
+}
+
+.uppercase {
+    text-transform: uppercase;
+
+}
+
+.italics {
+    font-style: italic;
+}
