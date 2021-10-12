@@ -8,6 +8,14 @@ body {
     background-position: 100px 100px;
 }
 
+header {
+    color:lightblue;
+    background-color:darksalmon;
+    background-image:url(../images/bread.jpg);
+    background-size:cover;
+    background-position: center center;
+    height: 100vh;
+}
 .bolded {
     font-weight: 800;
 }
